@@ -1,7 +1,5 @@
 # Scotland's most picturesque running routes
 
-**Reboot Data Analyst assessment — Josephin Shajan**
-
 100 trail-running routes collected from AllTrails on 31 July 2026, scored on how picturesque they are, and analysed.
 
 ---
