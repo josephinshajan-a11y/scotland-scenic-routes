@@ -1,0 +1,30 @@
+# Chrome/Playwright profile — contains cookies and session data. NEVER commit.
+**/.browser_profile/
+**/browser_profile/
+**/user_data/
+.playwright/
+
+# Raw scraped HTML — bulk, and not ours to redistribute
+raw_html/
+pages/
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
